@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Neeraj Chopra Classic",
+    "date": "2025-07-05",
+    "location": "Bengaluru",
+    "description": "India’s first international javelin meet headlined by Neeraj Chopra.",
+    "details": "Held at the iconic Sree Kanteerava Stadium, this prestigious athletics event gathers global javelin talent for a historic showdown. The meet will include morning warm-ups, precision-throw workshops for youth, and thrilling afternoon finals. Apart from Neeraj Chopra, fans can see Olympic athletes like Thomas Röhler and Julius Yego in action. The venue will feature shaded audience seating, food trucks, exclusive merchandise stalls, and a meet-and-greet opportunity for early bird pass holders. The closing ceremony will include a light show and athlete parade."
+  },
+  {
+    "id": "2",
+    "title": "BES EXPO 2025",
+    "date": "2025-07-03",
+    "location": "New Delhi",
+    "description": "India’s premier broadcast & media tech exhibition.",
+    "details": "Organized at Pragati Maidan from July 3–5 by the Broadcast Engineering Society (India), BES EXPO 2025 will feature over 150 companies showcasing state-of-the-art broadcasting solutions. Exhibitors include Sony, Grass Valley, Adobe, and Indian startups in AR/VR storytelling. The event features 8 international keynotes, 20+ technical sessions, and a Women in Broadcast panel. Day 2 will host a student tech challenge and industry networking mixer. Open to media professionals, engineers, journalism students, and investors looking to understand India’s digital content evolution."
+  },
+  {
+    "id": "3",
+    "title": "Technology Senate 2025",
+    "date": "2025-07-11",
+    "location": "Jaipur",
+    "description": "CIO/CTO conference focused on India’s digital transformation.",
+    "details": "This invite-only summit gathers 150+ enterprise technology leaders at the InterContinental Jaipur from July 11–13. Expect keynote speeches from CTOs of Infosys, Microsoft India, and AWS. Tracks include ‘Building AI-First Organizations’, ‘Securing the Cloud’, and ‘Digital Infrastructure 2030’. Evening sessions feature heritage networking dinners and desert campfires. The event includes roundtables, speed networking for CIOs, and showcases of cutting-edge tools in observability, automation, and decentralized cloud. A must-attend for decision-makers in digital innovation."
+  },
+  {
+    "id": "4",
+    "title": "India Health Exhibition 2025",
+    "date": "2025-07-11",
+    "location": "New Delhi",
+    "description": "Leading healthcare expo featuring MedTech innovations.",
+    "details": "India Health Exhibition, held at Bharat Mandapam, spans 40,000 sq. ft. and features 300+ health-tech exhibitors. Attendees can experience live demos of robotic surgical units, AI-driven diagnostics, digital pathology systems, and fitness wearables. Workshops include 'Telemedicine for Rural India', 'AI in Cardiology', and Ayurveda-based stress relief. There’s a special track for hospital administrators focused on green hospitals and digital records. Delegates include global investors, startups, health ministers, and practicing physicians. Food courts and wellness zones (yoga & spa) add lifestyle to the experience."
+  },
+  {
+    "id": "5",
+    "title": "Industrial Ideathon 2025",
+    "date": "2025-07-20",
+    "location": "Delhi",
+    "description": "Student hackathon for industrial and digital solutions.",
+    "details": "The Ideathon brings together India's brightest engineering, design, and management minds under one roof at Delhi Brewer’s Park. Teams from 50+ institutes will present innovative prototypes on topics like Smart Logistics, Waste-to-Energy Systems, Predictive Maintenance using IoT, and Industrial AI Assistants. Day 1 features ideation and mentor rounds. Day 2 has a pitch marathon judged by VCs and manufacturing CEOs. ₹80 lakh prize pool includes seed funding, internships, and business incubation offers. Cultural programs and a tech-music mashup night close out the event."
+  },
+  {
+    "id": "6",
+    "title": "Free Fire India Cup 2025",
+    "date": "2025-07-13",
+    "location": "Online",
+    "description": "India’s comeback esports tournament for Free Fire.",
+    "details": "Free Fire returns with a bang! Starting July 13, open qualifiers invite squads from across the country to compete for a spot in the National League. The league stage (July 26–Aug 3) will be live-streamed on YouTube and Loco with professional shoutcasters. Players compete in multiple battleground maps with weapon-specific challenges. The grand finale includes celebrity gamers and an exclusive collaboration with an Indian music artist. Viewers can win merch, top-up codes, and game passes by watching live. The prize pool crosses ₹50 lakhs, with cash and esports contracts on the line."
+  },
+  {
+    "id": "7",
+    "title": "Amazon Prime Day 2025",
+    "date": "2025-07-12",
+    "location": "Online",
+    "description": "Three-day sale with exclusive deals for Prime members.",
+    "details": "From July 12–14, Amazon Prime members in India will enjoy 72 hours of lightning deals, new launches, and mega discounts. Products from Apple, Samsung, HP, and homegrown D2C brands will see up to 60% off. Key highlights include Live Shopping Streams, early-bird giveaways, Prime Video drops, and bank offers with HDFC and ICICI. New category: 'Sustainable Finds' with eco-friendly picks. Amazon India will also debut 'Shop with Alexa' voice features. It's not just a sale — it's a 3-day online shopping festival."
+  },
+  {
+    "id": "8",
+    "title": "OnePlus Nord 5 Launch",
+    "date": "2025-07-08",
+    "location": "Online",
+    "description": "Launch event for OnePlus Nord 5 and Nord CE5 in India.",
+    "details": "On July 8 at 2 PM IST, join OnePlus India’s livestream unveiling the Nord 5 and Nord CE5. Expect design reveals, speed tests with Snapdragon 8 Gen 2, camera breakdowns, and launch offers. The event will include a live unboxing session, influencer Q&A, and behind-the-scenes at the OnePlus R&D lab. Registered viewers stand a chance to win free Nord Buds 4 and launch gift hampers. Nord 5 is expected to bring flagship performance to mid-range with a price under ₹30K. Viewers can buy directly via ‘Notify Me’ links post-event."
+  },
+  {
+    "id": "9",
+    "title": "Ratha Yatra Puri 2025",
+    "date": "2025-07-04",
+    "location": "Puri",
+    "description": "Legendary Hindu chariot festival of Lord Jagannath.",
+    "details": "Celebrated in Puri, Odisha, Ratha Yatra marks the journey of Lord Jagannath, Balabhadra, and Subhadra to Gundicha Temple. On July 4, over a million devotees participate in pulling three grand chariots down the Bada Danda road. The event includes traditional music, Odissi dance troupes, and bhog prasadam distribution. Pilgrims can visit nearby beaches and temples. The 'Hera Panchami' ritual five days later is a unique event. ISKCON volunteers will facilitate clean-up and first aid. It's one of India's grandest religious festivals and a spiritual spectacle unlike any other."
+  },
+  {
+    "id": "10",
+    "title": "Snapdragon Auto Day India",
+    "date": "2025-07-30",
+    "location": "New Delhi",
+    "description": "Qualcomm’s showcase of automotive connectivity tech.",
+    "details": "Hosted at The Leela, New Delhi, Snapdragon Auto Day features demonstrations of V2X communication, autonomous driving sensors, and AI-assisted cockpit experiences. Qualcomm's key engineers will present deep-dives on Snapdragon Ride and Car-to-Cloud platforms. Exhibitors include Tata Motors, Mahindra Electric, and Bosch Mobility. Panels discuss smart highways, EV adoption, and data security in connected cars. Attendees will experience concept dashboards, real-time simulations, and even AR test drives. The event concludes with a networking dinner featuring car-tech startup founders and mobility journalists."
+  }
+]
