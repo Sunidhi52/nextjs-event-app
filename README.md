@@ -50,25 +50,22 @@ Edit
 git clone https://github.com/YOUR_USERNAME/nextjs-event-app.git
 cd nextjs-event-app
 
-2. Install dependencies
+### 2. Install dependencies
 bash
-Copy
-Edit
 npm install
 
-3. Start the development server
+### 3. Start the development server
 bash
-Copy
-Edit
 npm run dev
-Open your browser at http://localhost:3000
 
-🚀 Live Demo
+ Open your browser at http://localhost:3000
+
+### 🚀 Live Demo
 The app is deployed on Vercel.
 
 🔗 Live URL: https://nextjs-event-app-git-main-sunidhi-sunils-projects.vercel.app
 
-💡 If I Had More Time…
+###💡 If I Had More Time…
 Add login & authentication to allow users to save favorite events
 
 Use localStorage or backend DB for persistent "heart" favorites
@@ -83,7 +80,7 @@ Improve accessibility with screen reader support & ARIA roles
 
 Add unit tests using Jest and React Testing Library
 
-🙋‍♀️ Author
+### 🙋‍♀️ Author
 Sunidhi Sunil
 Full Stack Developer • AI/ML Enthusiast • Creative Coder
 This project was built as part of an assignment — using clean code, scalable structure, and great design.
